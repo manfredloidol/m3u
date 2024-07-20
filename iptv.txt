@@ -1,1 +1,3 @@
-http://181.78.27.128:8000/play/a03s/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="NACIONALES", CN9
+https://d4xunn272arip.cloudfront.net/hls/c9n.m3u8
